@@ -606,7 +606,6 @@ body.dark-theme{
 .about__img{
   position: relative;
   border: 4px solid var(--white-color);
-  border-radius: 50%;
   z-index: 1;
 } 
 
