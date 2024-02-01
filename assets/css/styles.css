@@ -409,7 +409,7 @@ body.dark-theme{
 }
 
 .home__image {
-  width: 280px;
+  width: 180px;
 }
 
 .home__img{
@@ -606,6 +606,7 @@ body.dark-theme{
 .about__img{
   position: relative;
   border: 4px solid var(--white-color);
+  border-radius: 50%;
   z-index: 1;
 } 
 
